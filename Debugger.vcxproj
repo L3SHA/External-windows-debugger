@@ -140,9 +140,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="DebuggerDialog.cpp" />
+    <ClCompile Include="DebuggerLogic.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DebuggerDialog.h" />
+    <ClInclude Include="DebuggerLogic.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

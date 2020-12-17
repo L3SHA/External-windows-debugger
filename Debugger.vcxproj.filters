@@ -18,9 +18,15 @@
     <ClCompile Include="DebuggerDialog.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="DebuggerLogic.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DebuggerDialog.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="DebuggerLogic.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
